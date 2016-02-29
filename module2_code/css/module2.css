@@ -10,11 +10,11 @@ p {
   border: 1px solid black;
   background-color: red;
   width: 90%;
-  height: 150px;
+  height: 90%;
   margin-right: auto;
   margin-left: auto;
   font-family: Helvetica;
-  color: white;
+  color: yellow;
 }
 
 /* Simple Responsive Framework. */
@@ -93,7 +93,7 @@ p {
     width: 41.66%;
   }
   .col-md-6 {
-  	    width: 50%;
+  	    width: 45%;
   }
   .col-md-7 {
     width: 58.33%;
